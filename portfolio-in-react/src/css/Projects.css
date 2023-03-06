@@ -1,0 +1,5 @@
+.projects {
+  max-width: 50%; /* Set the width of the element */
+  margin: 0 auto; /* Center the element horizontally */
+  text-align: center; /* Center the contents of the element */
+}
